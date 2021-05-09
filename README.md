@@ -74,3 +74,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ---
 https://master.dmi71r6xvbv86.amplifyapp.com/
+
+```language
+yarn set version berry
+```
