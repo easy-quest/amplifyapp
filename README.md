@@ -78,3 +78,6 @@ https://master.dmi71r6xvbv86.amplifyapp.com/
 ```language
 yarn set version berry
 ```
+```language
+yarn dlx @yarnpkg/doctor
+```

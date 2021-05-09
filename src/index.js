@@ -11,7 +11,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// Если вы хотите начать измерение производительности в вашем приложении, пройдите функцию
+// Для журнала результатов (for example: reportWebVitals(console.log))
+// или отправить в конечную точку аналитики. Учить больше: https://bit.ly/CRA-vitals
 reportWebVitals();
