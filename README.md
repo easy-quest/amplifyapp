@@ -99,3 +99,13 @@ export PATH="$PATH:`yarn global bin`"
 ```
 set -U fish_user_paths (yarn global bin) $fish_user_paths
 ```
+
+
+```language
+import ReplAPI from 'replapi-it';
+
+
+const replapi = ReplAPI({
+  username: 'easyquest'
+});
+```
